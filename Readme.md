@@ -2,7 +2,9 @@
 
 > Aplicativo em que o usuário seleciona um intervalo de linhas desejadas em um arquivo excel e as manda por email.
 
-<img src="Assets/Interface.png" alt="Exemplo imagem">
+<div align="center">
+    <img title="Interface Gráfica" src="Assets/Interface.png"/>
+</div>
 
 ### Ajustes e melhorias
 
